@@ -61,15 +61,18 @@ Having the numbers and the **points of synergy** of content, it would be possibl
 | level 8 | Doctorat ou equivalent | Doctorat
 
 
-### Full Correlation Table
+### Full Correlation Table by Age
+
+TBD
+
 | Age        | ISCED level | France  | Brazil
 | ------------- |:-------------:|:-----------:| -----:|
 | 0 | 0 | X | Y
-| 0 | 0 | X | Y
-| 0 | 0 | X | Y
-| 0 | 0 | X | Y
-| 0 | 0 | X | Y
-| 0 | 0 | X | Y
+| 1 | 0 | X | Y
+| 2 | 0 | X | Y
+| 3 | 0 | X | Y
+| 4 | 0 | X | Y
+| 5 | 0 | X | Y
 | 0 | 0 | X | Y
 | 0 | 0 | X | Y
 | 0 | 0 | X | Y
