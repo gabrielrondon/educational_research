@@ -22,8 +22,8 @@ Having the numbers and the **points of synergy** of content, it would be possibl
 
 ## ISCED levels
 
-| ISCED levels        | Level Description           | 
-| -------------  -----:|
+| ISCED levels | Level Description      
+| :------------- |-----:
 | level 0 | Early childhood education
 | level 1 | Primary education      
 | level 2 | Lower secondary education      
