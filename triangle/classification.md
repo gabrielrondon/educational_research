@@ -35,8 +35,31 @@ Having the numbers and the **points of synergy** of content, it would be possibl
 | level 8 | Doctoral or equivalent level      
 
 ### Brazil System
+| ISCED levels | Brazil Description | .   
+| :------------- |:---------:|-----:
+| level 0 | Educação pré-primária | .
+| level 1 | Educação primária, ou primeiro estágio da educação básica | .      
+| level 2 | Educação Secundária Baixa, ou segundo estágio da educação básica | .
+| level 3 | Educação Secundária Alta | .    
+| level 4 | Educação Pós-Secundária não superior, ou Pós-Secundária não terciária | .
+| level 5 | Educação Terciária de Ciclo Curto, ou Primeiro estágio do ensino superior não conducente a uma qualificação avançada na área da investigação (bacharelato, licenciatura, mestrado) | .
+| level 6 | Graduação em Educação Terciária, ou Formação superior avançada (pós-graduada), conducente a uma qualificação na área da investigação (doutoramento) | .
+| level 7 | Mestrado, ou Especialização | .
+| level 8 | Doutorado ou Pesquisa avançada | .
 
 ### France System
+| ISCED levels | French Description | Équivalent France      
+| :------------- |:---------:|-----:
+| level 0 | Education de la petite enfance | École maternelle
+| level 1 | Primaire | École primaire      
+| level 2 | Enseignement secondaire (premier cycle) | Collège
+| level 3 | Enseignement secondaire (deuxième cycle) | Lycée      
+| level 4 | Enseignement post-secondaire non-supérieur |  
+| level 5 | Enseignement supérieur de cycle court | DEUG, BTS, DUT
+| level 6 | Baccalauréat universitaire ou équivalent | Licence
+| level 7 | Maîtrise universitaire ou équivalent | Master
+| level 8 | Doctorat ou equivalent | Doctorat
+
 
 ### Full Correlation Table
 | Age        | ISCED level | France  | Brazil
